@@ -130,4 +130,5 @@ dmypy.json
 
 venv
 .~lock.Main.docx#
+.idea/
 
